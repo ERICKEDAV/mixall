@@ -46,7 +46,6 @@
 <a href="https://staging-xconnect.renewalbyandersen.com/">staging-xconnect.renewalbyandersen.com</a>
 <a href="https://cisprod.midttrafik.dk/">cisprod.midttrafik.dk</a>
 <a href="https://philips-ncommand.ionic.health/">philips-ncommand.ionic.health</a>
-<a href="http://dsg.rangemod.com/">dsg.rangemod.com</a>
 <a href="http://kaffmusic.gauru.art/">kaffmusic.gauru.art</a>
 <a href="http://mail5.solarbotics.net/">mail5.solarbotics.net</a>
 <a href="https://www.www1.wyvernojq.com/">www.www1.wyvernojq.com</a>
@@ -124,4 +123,17 @@
 <a href="https://fjorensb.rshosting.no/">fjorensb.rshosting.no</a>
 <a href="https://hubcdnuat.fmgl.com.au/">hubcdnuat.fmgl.com.au</a>
 <a href="https://gerp.gsquared.com.au/">gerp.gsquared.com.au</a>
+<a href="https://www.plso.info/">www.plso.info</a>
+<a href="https://gerp-api.gsquared.com.au/">gerp-api.gsquared.com.au</a>
+<a href="https://cd2-uat.act.com.jo/">cd2-uat.act.com.jo</a>
+<a href="https://www.app.furoo.eu/">www.app.furoo.eu</a>
+<a href="https://mail.platanista.gr/">mail.platanista.gr</a>
+<a href="https://app-ip-proxy-dev.azure.intelliplan.eu/">app-ip-proxy-dev.azure.intelliplan.eu</a>
+<a href="http://kaffmusic.gauru.art/">http:kaffmusic.gauru.art</a>
+<a href="https://ga.uat-quote.theticketclinic.com/">ga.uat-quote.theticketclinic.com</a>
+<a href="https://bpt-proceduralsystem.oir.ie/">bpt-proceduralsystem.oir.ie</a>
+<a href="http://test3.dewit.com.au/">http:test3.dewit.com.au</a>
+<a href="http://london.niknak.net/">http:london.niknak.net</a>
+<a href="http://awtest.7th-gate.jp/">http:awtest.7th-gate.jp</a>
+<a href="http://iso.dewit.com.au/">http:iso.dewit.com.au</a>
 </div>
