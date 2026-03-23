@@ -152,4 +152,11 @@
 <a href="https://client.capstock.mu/">client.capstock.mu</a>
 <a href="https://dev.seraphimsoftware.com/">dev.seraphimsoftware.com</a>
 <a href="https://blog.thebrandstrengthmonitor.com/sql/">blog.thebrandstrengthmonitor.com/sql</a>
+<a href="https://datavine-qa.deltaglobalnetwork.com/">datavine-qa.deltaglobalnetwork.com</a>
+<a href="https://heat.demo.trulitehealth.com/">heat.demo.trulitehealth.com</a>
+<a href="http://support.red-maple.co.uk/">support.red-maple.co.uk</a>
+<a href="http://www.alessandrogherardi.it/">www.alessandrogherardi.it</a>
+<a href="http://quotes.barefootbreaks.co.za/">quotes.barefootbreaks.co.za</a>
+<a href="http://mail.dataships.ie/">mail.dataships.ie</a>
+<a href="http://v2.solarbotics.net/pages-dev/">v2.solarbotics.net/pages-dev</a>
 </div>
